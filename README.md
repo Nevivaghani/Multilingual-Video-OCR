@@ -145,3 +145,23 @@ Try improving video quality or selecting the correct language.
 
 - **Video not playing**
 Ensure the uploaded file is a valid video format.
+
+--- 
+
+## Screenshots
+
+![App Screenshot][def]
+
+![App Screenshot][def2]
+
+![App Screenshot][def3]
+
+[def]: ./assets/ocr1.png
+
+[def2]: ./assets/ocr2.png
+
+[def3]: ./assets/ocr3.png
+
+
+
+
