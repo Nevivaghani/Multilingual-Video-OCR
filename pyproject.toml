@@ -1,0 +1,20 @@
+[project]
+name = "live-ocr"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Nevivaghani",email = "nevivaghani793@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "flask (>=3.1.0,<4.0.0)",
+    "pytesseract (>=0.3.13,<0.4.0)",
+    "opencv-python (>=4.11.0.86,<5.0.0.0)",
+    "pillow (>=11.2.1,<12.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
